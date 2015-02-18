@@ -1,0 +1,14 @@
+Program chromedate konwertuje date z formatu używanego w chrome
+bookmarks. Chrome w pliku bookmarks, w polach "date_added" używa
+daty w formacie Windows NT timestamp, czyli liczby mikrosekund od
+1601-01-01.
+
+Sposób użycia:
+
+	chromedate timestamp
+		timestamp: liczba mikrosekund od 1601-01-01`
+
+Przykład:
+
+	chromedate 13068596981313705
+	2015-02-16 21:49:41.313705 +0000 UTC
