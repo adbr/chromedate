@@ -6,7 +6,7 @@ daty w formacie Windows NT timestamp, czyli liczby mikrosekund od
 Sposób użycia:
 
 	chromedate timestamp
-		timestamp: liczba mikrosekund od 1601-01-01`
+		timestamp: liczba mikrosekund od 1601-01-01
 
 Przykład:
 
